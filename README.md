@@ -1,5 +1,7 @@
 # Udacity-CS262: Programming Languages
 
+This repository contains my solutions to Udacity CS262: Programming Languages.
+
 ** Taught by Professor Wes Weimer (University of Virginia) **
 
 https://www.udacity.com/course/programming-languages--cs262
